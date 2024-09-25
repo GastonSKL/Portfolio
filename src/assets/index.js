@@ -35,6 +35,7 @@ import grupoTX from "./company/grupoTX.png";
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+import generativeApp from "./generativeApp.png";
 
 export {
   netcore,
@@ -71,4 +72,5 @@ export {
   carrent,
   jobit,
   tripguide,
+  generativeApp
 };

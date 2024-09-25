@@ -28,7 +28,8 @@ import {
     aws,
     netcore,
     csharp,
-    sqlserver
+    sqlserver,
+    generativeApp
   } from "../assets";
 
   
@@ -178,9 +179,9 @@ import {
   
   const projects = [
     {
-      name: "Car Rent",
+      name: "Image Generation AI App",
       description:
-        "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+        "Full stack app created to be a clone of DALL-E. Its build using express, react, and stability ai api.",
       tags: [
         {
           name: "react",
@@ -195,8 +196,9 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: carrent,
-      source_code_link: "https://github.com/",
+      image: generativeApp,
+      source_code_link: "https://github.com/GastonSKL/AI-Image-Generation-App",
+      deployed: "https://generativeapp.netlify.app/"
     },
     {
       name: "Job IT",
@@ -218,6 +220,7 @@ import {
       ],
       image: jobit,
       source_code_link: "https://github.com/",
+      deployed: "https://generativeapp.netlify.app/"
     },
     {
       name: "Trip Guide",
@@ -239,6 +242,7 @@ import {
       ],
       image: tripguide,
       source_code_link: "https://github.com/",
+      deployed: "https://generativeapp.netlify.app/"
     },
   ];
   
