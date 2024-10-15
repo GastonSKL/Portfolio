@@ -201,9 +201,9 @@ import {
       deployed: "https://generativeapp.netlify.app/"
     },
     {
-      name: "Job IT",
+      name: "chatAPP",
       description:
-        "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+        "Web application that eneables you to chat with other people using Stream, and sms notifications with Twilio",
       tags: [
         {
           name: "react",
@@ -214,36 +214,19 @@ import {
           color: "green-text-gradient",
         },
         {
-          name: "scss",
+          name: "twilio",
           color: "pink-text-gradient",
+        },
+        {
+          name: "stream",
+          color: "red-text-gradient",
         },
       ],
       image: jobit,
-      source_code_link: "https://github.com/",
-      deployed: "https://generativeapp.netlify.app/"
+      source_code_link: "https://github.com/GastonSKL/chatAPP",
+      deployed: "https://chatapp-gaston-skamlec.netlify.app/"
     },
-    {
-      name: "Trip Guide",
-      description:
-        "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
-      tags: [
-        {
-          name: "nextjs",
-          color: "blue-text-gradient",
-        },
-        {
-          name: "supabase",
-          color: "green-text-gradient",
-        },
-        {
-          name: "css",
-          color: "pink-text-gradient",
-        },
-      ],
-      image: tripguide,
-      source_code_link: "https://github.com/",
-      deployed: "https://generativeapp.netlify.app/"
-    },
+    
   ];
   
   export { services, technologies, experiences, testimonials, projects };
