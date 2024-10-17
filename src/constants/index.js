@@ -29,7 +29,8 @@ import {
     netcore,
     csharp,
     sqlserver,
-    generativeApp
+    generativeApp,
+    carhub
   } from "../assets";
 
   
@@ -225,6 +226,32 @@ import {
       image: jobit,
       source_code_link: "https://github.com/GastonSKL/chatAPP",
       deployed: "https://chatapp-gaston-skamlec.netlify.app/"
+    },
+    {
+      name: "carhub",
+      description:
+        "Web application builded for showcasing cars from different angles an its characteristics",
+      tags: [
+        {
+          name: "react",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "restapi",
+          color: "green-text-gradient",
+        },
+        {
+          name: "next",
+          color: "pink-text-gradient",
+        },
+        {
+          name: "typescript",
+          color: "red-text-gradient",
+        },
+      ],
+      image: carhub,
+      source_code_link: "https://github.com/GastonSKL/carShowcase",
+      deployed: "https://car-showcase-rho-ten.vercel.app/"
     },
     
   ];
