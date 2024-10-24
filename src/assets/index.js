@@ -37,10 +37,12 @@ import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 import generativeApp from "./generativeApp.png";
 import carhub from "./carhub.png";
+import hospital from "./hospital.png";
 
 export {
   netcore,
   carhub,
+  hospital,
   csharp,
   sqlserver,
   aws,

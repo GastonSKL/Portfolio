@@ -1,5 +1,6 @@
 import {
     mobile,
+    hospital ,
     backend,
     creator,
     web,
@@ -252,6 +253,28 @@ import {
       image: carhub,
       source_code_link: "https://github.com/GastonSKL/carShowcase",
       deployed: "https://car-showcase-rho-ten.vercel.app/"
+    },
+    {
+      name: "Hospital",
+      description:
+        "Web application builded for managing hospitals",
+      tags: [
+        {
+          name: "ASP.NET",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "SQL Server",
+          color: "green-text-gradient",
+        },
+        {
+          name: "Microservices",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: hospital,
+      source_code_link: "https://github.com/GastonSKL/hospital-managment",
+      deployed: "http://hospitalcrudcgls.somee.com/admin/Home"
     },
     
   ];
