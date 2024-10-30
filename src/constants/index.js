@@ -31,7 +31,8 @@ import {
     csharp,
     sqlserver,
     generativeApp,
-    carhub
+    carhub,
+    videos
   } from "../assets";
 
   
@@ -276,6 +277,24 @@ import {
       source_code_link: "https://github.com/GastonSKL/hospital-managment",
       deployed: "http://hospitalcrudcgls.somee.com/admin/Home"
     },
+    {
+      name: "Youtube Clone",
+      description:
+        "A simple YouTube clone made with React",
+      tags: [
+        {
+          name: "React",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "Rapid API",
+          color: "green-text-gradient",
+        }
+      ],
+      image: videos,
+      source_code_link: "https://github.com/GastonSKL/Videospage",
+      deployed: "https://aesthetic-parfait-4bfc50.netlify.app/"
+    }
     
   ];
   

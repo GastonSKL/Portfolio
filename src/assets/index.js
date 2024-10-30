@@ -38,6 +38,7 @@ import tripguide from "./tripguide.png";
 import generativeApp from "./generativeApp.png";
 import carhub from "./carhub.png";
 import hospital from "./hospital.png";
+import videos from "./videos.png";
 
 export {
   netcore,
@@ -76,5 +77,6 @@ export {
   carrent,
   jobit,
   tripguide,
-  generativeApp
+  generativeApp,
+  videos
 };
