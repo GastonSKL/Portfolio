@@ -318,7 +318,7 @@ import {
       ],
       image: dashboard,
       source_code_link: "https://github.com/GastonSKL/GastonSKL-DashboardApp",
-      deployed: "https://gaston-skl-dashboard-cgd63n5qp-gastonskls-projects.vercel.app/"
+      deployed: "https://jolly-gaufre-d51e74.netlify.app/"
     }
     
   ];
