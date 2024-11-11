@@ -32,7 +32,8 @@ import {
     sqlserver,
     generativeApp,
     carhub,
-    videos
+    videos,
+    dashboard
   } from "../assets";
 
   
@@ -294,6 +295,30 @@ import {
       image: videos,
       source_code_link: "https://github.com/GastonSKL/Videospage",
       deployed: "https://aesthetic-parfait-4bfc50.netlify.app/"
+    }
+    ,
+    {
+      name: "Refine + React Dashboard app",
+      description:
+        "A complex dashboard app made with React and Refine for simple forms",
+      tags: [
+        {
+          name: "React",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "Refine",
+          color: "green-text-gradient",
+        }
+        ,
+        {
+          name: "GraphQL",
+          color: "red-text-gradient",
+        }
+      ],
+      image: dashboard,
+      source_code_link: "https://github.com/GastonSKL/GastonSKL-DashboardApp",
+      deployed: "https://gaston-skl-dashboard-cgd63n5qp-gastonskls-projects.vercel.app/"
     }
     
   ];

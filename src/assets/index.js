@@ -39,6 +39,7 @@ import generativeApp from "./generativeApp.png";
 import carhub from "./carhub.png";
 import hospital from "./hospital.png";
 import videos from "./videos.png";
+import dashboard from "./dashboard.png";
 
 export {
   netcore,
@@ -78,5 +79,6 @@ export {
   jobit,
   tripguide,
   generativeApp,
-  videos
+  videos,
+  dashboard
 };
