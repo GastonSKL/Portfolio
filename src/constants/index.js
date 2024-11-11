@@ -233,7 +233,7 @@ import {
     {
       name: "carhub",
       description:
-        "Web application builded for showcasing cars from different angles an its characteristics",
+        "Web application for showcasing cars from different angles",
       tags: [
         {
           name: "react",
@@ -300,7 +300,7 @@ import {
     {
       name: "Refine + React Dashboard app",
       description:
-        "A complex dashboard app made with React and Refine for simple forms",
+        "A dashboard with React and Refine ",
       tags: [
         {
           name: "React",
